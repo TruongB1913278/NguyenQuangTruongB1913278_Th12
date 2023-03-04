@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruongB1913278/NguyenQuangTruongB1913278_Th12.git"
+  },
+  "author": "QuangTruong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TruongB1913278/NguyenQuangTruongB1913278_Th12/issues"
+  },
+  "homepage": "https://github.com/TruongB1913278/NguyenQuangTruongB1913278_Th12#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
